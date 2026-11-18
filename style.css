@@ -1,10 +1,10 @@
 /* Aussehen des Kalenders. Aendere vor allem die Werte im :root-Block. */
 :root {
-  --farbe-akzent: #1f6f43;       /* Vereinsfarbe: Datumsfeld, Monatsueberschrift */
+  --farbe-akzent: #4eee94;       /* Vereinsfarbe: Datumsfeld, Monatsueberschrift */
   --farbe-akzent-text: #ffffff;  /* Schrift im Datumsfeld */
   --farbe-text: #222222;
   --farbe-text-leise: #666666;   /* Uhrzeit, Ort */
-  --farbe-hintergrund: transparent; /* transparent = Hintergrund der Homepage */
+  --farbe-hintergrund: transparent	#4eee94; /* transparent = Hintergrund der Homepage */
   --farbe-karte: #ffffff;
   --farbe-rand: #e2e2e2;
   --schrift: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
