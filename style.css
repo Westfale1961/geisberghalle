@@ -1,6 +1,6 @@
 /* Aussehen des Kalenders. Aendere vor allem die Werte im :root-Block. */
 :root {
-  --farbe-akzent: #4eee94;       /* Vereinsfarbe: Datumsfeld, Monatsueberschrift */
+  --farbe-akzent: #999900;       /* Vereinsfarbe: Datumsfeld, Monatsueberschrift */
   --farbe-akzent-text: #ffffff;  /* Schrift im Datumsfeld */
   --farbe-text: #222222;
   --farbe-text-leise: #666666;   /* Uhrzeit, Ort */
